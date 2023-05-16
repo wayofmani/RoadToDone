@@ -1,0 +1,5 @@
+[+] Figma Design Sketch
+[ ] Brand Identity (Logo,Color Palette,...)
+[ ] Figma Design as Desktop App
+[ ] How to code this ? (Requirements)
+[ ] Publish Figma Design In Community
